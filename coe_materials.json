@@ -1,0 +1,34 @@
+{
+  "stage1": {
+    "s1": {
+      "subjects": []
+    },
+    "s2": {
+      "subjects": []
+    }
+  },
+  "stage2": {
+    "s1": {
+      "subjects": []
+    },
+    "s2": {
+      "subjects": []
+    }
+  },
+  "stage3": {
+    "s1": {
+      "subjects": []
+    },
+    "s2": {
+      "subjects": []
+    }
+  },
+  "stage4": {
+    "s1": {
+      "subjects": []
+    },
+    "s2": {
+      "subjects": []
+    }
+  }
+}
